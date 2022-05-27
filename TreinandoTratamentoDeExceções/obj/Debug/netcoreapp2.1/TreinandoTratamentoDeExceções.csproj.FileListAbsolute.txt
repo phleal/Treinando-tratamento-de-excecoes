@@ -1,0 +1,13 @@
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\bin\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.deps.json
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\bin\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.runtimeconfig.json
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\bin\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.runtimeconfig.dev.json
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\bin\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.dll
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\bin\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.pdb
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.csproj.AssemblyReference.cache
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.AssemblyInfoInputs.cache
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.AssemblyInfo.cs
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.csproj.CoreCompileInputs.cache
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.dll
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.pdb
+C:\Users\Trusty boy\source\repos\TreinandoTratamentoDeExceções\TreinandoTratamentoDeExceções\obj\Debug\netcoreapp2.1\TreinandoTratamentoDeExceções.genruntimeconfig.cache
